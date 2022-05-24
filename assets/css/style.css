@@ -1,0 +1,88 @@
+/* html{
+    height:100vh;
+}
+body {
+    background: -webkit-gradient(linear, left top, right top, from(rgb(221, 8, 8)), to(#8b3535)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(221, 8, 8), #8b3535);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(221, 8, 8)', EndColorStr='#8b3535');
+}
+.div-nav-container{
+    background: -webkit-gradient(linear, left top, right top, from(rgb(221, 8, 8)), to(#8b3535)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(221, 8, 8), #8b3535);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(221, 8, 8)', EndColorStr='#8b3535');      
+}
+
+.logo{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+}
+.button-toggler{
+    background: -webkit-gradient(linear, left top, right top, from(rgb(240, 179, 179)), to(#8b3535)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(235, 180, 180), #8b3535);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(221, 8, 8)', EndColorStr='#8b3535');
+}
+
+.text-consulta-cep{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+}
+.text-rua{
+    color: rgb(41, 36, 36);
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+}
+.text-cidade{
+    color: rgb(41, 36, 36);
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+}
+.text-estado{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+    background: -webkit-gradient(linear, left top, right top, from(rgb(221, 8, 8)), to(#8b3535)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(41, 36, 36), #8b3535);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(221, 8, 8)', EndColorStr='#8b3535');  
+}
+.btn-submit-cep{
+    color: rgb(41, 36, 36);
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+    background: -webkit-gradient(linear, left top, right top, from(rgb(230, 223, 223)), to(#dad5d5)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(230, 223, 223), #dad5d5);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(230, 223, 223)', EndColorStr='#dad5d5'); 
+}
+.btn-submit-cep:hover{
+    transition: 2s;
+    color: rgb(253, 250, 250);
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1.2px;
+    text-decoration:underline;
+    letter-spacing: 2.2px;
+    background: -webkit-gradient(linear, left top, right top, from(rgb(56, 48, 48)), to(#1d0f0f)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(56, 48, 48), #1d0f0f);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(56, 48, 48)', EndColorStr='#1d0f0f'); 
+}
+.off-canvas-bg{
+    background: -webkit-gradient(linear, left top, right top, from(rgb(230, 223, 223)), to(#dad5d5)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(230, 223, 223), #dad5d5);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(230, 223, 223)', EndColorStr='#dad5d5'); 
+}  
+.body-canvas{
+    background: -webkit-gradient(linear, left top, right top, from(rgb(221, 8, 8)), to(#8b3535)) no-repeat;
+    background: -moz-linear-gradient(left, rgb(221, 8, 8), #8b3535);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='rgb(221, 8, 8)', EndColorStr='#8b3535');      
+}
+
+.text-p{
+    color:white;
+} */
